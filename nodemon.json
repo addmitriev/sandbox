@@ -1,0 +1,3 @@
+{
+  "ignore": ["*.js.coffee", "*.styl", "bower_components/*", "*.css", "*.jade"]
+}
